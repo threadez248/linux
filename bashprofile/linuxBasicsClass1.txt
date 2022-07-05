@@ -1,0 +1,17 @@
+
+Shell, Customize
+Interact with LInux host hardware. Kenel
+Kernel and What are the differnet OS versions we have
+
+
+
+What is a Process.
+
+Navigation: Directory stucture
+Looking at the resources used by a process.
+
+
+Questions:
+1.Soft link vs hardlink 
+2.different folders user / (vat, opt, bin) importance 
+3.bashrc vs bashprofile
